@@ -1,0 +1,205 @@
+        /* Imagenes */
+        .imagen1{}
+        .imagen2{width: 100px; height: 100px; }
+        .imagen3{width: 100px; height: 100px; }
+        .imagen4{width: 100px; height: 100px; }
+    
+        .imagen5{border-radius: 20px;}
+        .imagen6{border-radius: 20px;}
+        
+    
+
+
+        .imagen7{width: 150px; height: 100px;}
+        .imagen8{width: 150px; height: 100px; margin-left: 2%;}
+        .imagen9{width: 150px; height: 100px; margin-left: 3%;}
+        .imagen10{width: 400px; height: 100px; margin-left: 3%;}
+
+        .imagen11{width:100px ; height: 100px;}
+        .imagen12{width:100px ; height: 100px;}
+        .imagen13{width:100px ; height: 100px;}
+        .imagen14 {width:100px ; height: 100px; margin-left: 3%;}
+        .imagen15{width:100px ; height: 100px; margin-right: 1%;}
+        .imagen16{border-radius: 20px;}
+        .imagen17{border-radius: 20px;}
+        .imagen18{border-radius: 20px;}
+        .imagen19{border-radius: 20px;}
+
+
+        .inicio{width: 30px;height: 30px; margin-right: 10%;}
+        .quees{width: 30px;height: 30px; margin-right: 10%;}
+        .comosemide{width: 30px;height: 30px; margin-right: 10%;}
+        .impacto {width: 30px;height: 30px; margin-right: 10%;}
+        .factores {width: 30px;height: 30px; margin-right: 10%;}
+        .formulaunidad {width: 30px;height: 30px; margin-right: 10%;}
+
+        .info {width: 30px;height: 30px; margin-right: 10%;}
+        .calcu {width: 30px;height: 30px; margin-right: 10%;}
+        
+
+
+
+
+
+        /* Div general 1 */
+       .divgeneral1 {display: flex; background-color:  rgb(153, 192, 156); padding: 1%; margin: 1%; border-radius: 20px;}
+            .divgeneral1sub1 {padding: 1%; margin:1%; background-color: rgb(102, 216, 130); border-radius: 20px;}
+                    .divgeneral1sub1sub1{background-color: #9ce79b; margin:2%; padding: 3%; border-radius: 20px; margin-bottom: 5%;}
+                    .divgeneral1sub1sub2{background-color: #9ce79b; margin:2%; padding: 3%; border-radius: 20px; margin-top: 5%;}
+                        .divmetodos {background-color: ;display: flex;padding: 1%; justify-content: space-around;}
+                                .divmetodos1{background-color: antiquewhite; width: 50%; margin: 1%; padding: 2%;
+                                    display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                                .divmetodos2{background-color: antiquewhite; width: 50%; margin: 1%; padding: 2%;
+                                    display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+            
+                                    .divgeneral1formula {display: flex; padding: 1%;margin: 5%; }
+                                    .divdatos{background-color: rgb(158, 224, 143); display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px; }
+                                    .divfactor{background-color: rgb(158, 224, 143); display: flex; justify-content: center; align-items: center;   text-align: center;border-radius: 20px;}
+                              
+            
+            
+            
+            .xd{background-color: rgb(102, 216, 130); padding: 1%; margin: 1%; border-radius: 20px; }
+            .divgeneral1sub2 {padding: 4%; margin:2%;  background-color:  #9ce79b; border-radius: 20px; height: 94.5%; }
+            .divimagen5{text-align: center; padding:5%}
+            .divimagen6{text-align: center; padding:5%}
+
+     
+
+
+
+        /* Div general 2 */
+        .capa2{ background-color: rgb(125, 186, 140);padding: 1%;margin: 1%; border-radius: 20px;}
+        .capa2sub1{background-color: ;padding: 1%;margin: 1%; border-radius: 20px;}
+
+        .divgeneral2 {background-color:  rgb(153, 192, 156); padding: 1%; margin: 1%; border-radius: 20px;}
+                                    .divgeneral2titulo {;
+                                        text-align: center;}
+        .divgeneral2sub1{ margin:5%; padding: 1%;}
+        .divgeneral2sub2{ margin:5%; padding: 1%;}
+        .divgeneral2sub3{ margin:5%; padding: 1%;}
+        .divgeneral2sub4{margin:5%;  padding: 1%;}
+            .divgeneral2sub1pi {background-color: #f4f27a; display: flex; padding: 2%; border-radius: 20px;}
+            .divgeneral2sub2pi {background-color: #6df3d8; display: flex; padding: 2%; border-radius: 20px; }
+            .divgeneral2sub3pi {background-color: #e6cc85; display: flex; padding: 2%; border-radius: 20px;}
+            .divgeneral2sub4pi {background-color: #da92ea; display: flex; padding: 2%; border-radius: 20px;}
+            
+
+
+        
+
+        /* Div general 3 */
+
+.capa3{padding: 1%; margin:1%; background-color: rgb(102, 216, 130); border-radius: 20px;}
+.capa3sub1{padding: 3%; margin:1%; background-color: #9ce79b; border-radius: 20px;}
+
+        .divgeneral3 {background-color: rgb(153, 192, 156); padding: 2%; margin: 1%; border-radius: 20px;}
+
+        .divgeneral3sub1 {display: flex; justify-content: space-around; }
+                                    .divgeneral3sub1sub1{background-color: #edef89; margin: 1%; padding: 1%; border-radius: 20px; }
+                                    .divgeneral3sub1sub2{background-color: #82afed; margin: 1%; padding: 1%; border-radius: 20px;}
+                                    .divgeneral3sub1sub3{background-color: #9bea83; margin: 1%; padding: 1%; border-radius: 20px;}
+                                    
+                        .divgeneral3formula {display: flex; padding: 1%; ; justify-content: center; align-items: center;   text-align: center;}
+                        .divdatos2 {background-color: #86d99b; display: flex; justify-content: center; align-items: center;   text-align: center; padding: 2%;border-radius: 20px;}
+                        .divfactor2 {background-color: #86d99b;; display: flex; justify-content: center; align-items: center;   text-align: center; padding: 2%;border-radius: 20px;}
+
+
+
+
+                    .divgeneral3programacion{background-color: ;padding: 1%;}
+
+                        .divgeneral3programacion1{display: flex;background-color: #ee1c96; padding: 1%; margin: 1%; border-radius: 20px;}
+                                    .divgeneral3programacion1div {background-color: aliceblue; width: 100%; display: 
+                                        flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                        .divgeneral3programacion2{display: flex;background-color: #ee1c96; padding: 1%; margin: 1%; border-radius: 20px;}
+                                    .divgeneral3programacion2div {background-color: aliceblue; width: 100%;
+                                        display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                        .divgeneral3programacion3{display: flex;background-color: #ee1c96; padding: 1%; margin: 1%; border-radius: 20px;}
+                                    .divgeneral3programacion3div {background-color: aliceblue; width: 100%; 
+                                        display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+    
+
+
+
+
+
+
+                /* Div general 4 */
+
+                .capa4{ background-color: rgb(125, 186, 140);padding: 2%;margin: 1%; border-radius: 20px;}
+
+                .divgeneral4 {background-color: rgb(153, 192, 156); padding: 1%; margin: 1%; border-radius: 20px;}
+                .divgeneral4titulo {background-color: #94ff97; display: flex; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+
+                .divgeneral4recomendacionesgeneral {background-color: #598a56; padding: 1%; display: flex; border-radius: 20px;}
+                .divgeneral4recomendaciones1{background-color: aliceblue; margin: 1%;padding: 1%; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                .divgeneral4recomendaciones2{background-color: aliceblue; margin: 1%;padding: 1%; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                .divgeneral4recomendaciones3{background-color: aliceblue; margin: 1%;padding: 1%; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                .divgeneral4recomendaciones4{background-color: aliceblue; margin: 1%;padding: 1%; justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+
+
+                                            /* Div de introducción */
+                     .divintroduccion{ background-color: rgb(153, 192, 156); padding: 3%; margin: 1%;justify-content: center; align-items: center;   text-align: center; border-radius: 20px;}
+                     .divintroduccion1{background-color: rgb(255, 255, 255);padding: 2%; border-radius: 20px;}
+
+
+
+
+
+body{ background-image: url('imagenes/imagenfondo.jpg');
+    background-attachment: fixed;}
+
+
+
+                                                /* Div menú */
+
+                                                nav{ position: fixed;
+                                                    top: 0;  /* Fija el menú en la parte superior */
+                                                    left: 0; /* Alinea el menú al borde izquierdo */
+                                                    width: 98%; /* Hace que el menú ocupe todo el ancho */
+                                                    background-color: #333333; /* Color de fondo */
+                                                    color: white; /* Color del texto */
+                                                    padding: 10px 0; /* Espaciado interno */
+                                                    text-align: center; /* Centra los elementos */
+                                                    z-index: 1000; /* Asegura que el menú esté por encima de otros elementos */
+                                                     margin: %;
+                                                    padding: 1%;
+
+                                                font-size: 10px; 
+                                            }
+                                               
+                                                    nav ul {
+                                                        list-style: none;
+                                                        padding: 0;
+                                                        display: flex;
+                                                        justify-content: space-around;
+                                                    }
+
+
+
+
+                                                    nav ul li {
+                                                        display: inline;
+                                                        position: relative;
+                                                    }
+                                                    
+        
+                                                    nav ul li a {
+                                                        text-decoration: none;
+                                                        color: #ffffff;
+                                                        font-size: 1.2em;
+                                                        padding: 10px;
+                                                        border-radius: 5px;
+                                                        display: flex;
+                                                        align-items: center;
+                                                    }
+
+                                                    nav ul li a:hover {
+                                                        background-color: #34db69;
+                                                        color: rgb(35, 89, 29);
+                                                    }
+
+
+
+
